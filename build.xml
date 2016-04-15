@@ -1,0 +1,5 @@
+<project name="MyProject" default="dist" basedir=".">
+  <target name="dist">
+      <echo message="This is Ant builder"/>  
+  </target>
+</project>
